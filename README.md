@@ -1,2 +1,2 @@
 # helloWorld
-First GIT - master remote
+First GIT - release remote
